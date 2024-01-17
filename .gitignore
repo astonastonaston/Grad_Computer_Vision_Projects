@@ -1,5 +1,4 @@
-.JPG
-.png
-*/.JPG
-*/.png
-
+*.JPG
+*.png
+*/*.jpg
+*/*.png
